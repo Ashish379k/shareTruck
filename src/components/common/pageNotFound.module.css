@@ -1,0 +1,16 @@
+.home {
+    background-image: url('https://image.shutterstock.com/image-vector/concept-404-error-page-file-600w-1115879936.jpg');
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.5);
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow .3s ease-out;
+  }
+  .bg_makeTrip {
+      /* background-color: #172052; */
+      box-shadow:rgba(0,0,0,0.3);
+  }

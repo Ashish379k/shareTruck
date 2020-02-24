@@ -1,0 +1,31 @@
+
+.App {
+	height: 100%;
+	width: 100%;
+}
+
+
+.map-three{
+	border: 1px solid blue;
+	border-radius:5px;
+	width: 100%;
+	float: left;
+	height: 500px;
+	padding: 10px;
+	margin: 5px;
+}
+div#eleven {
+    width: 70%;
+    float: right;
+}
+.direction-container{
+	max-height: 460px;
+	overflow: auto;
+}
+.customClass{
+	height: 100%;
+}
+
+/* 
+// WEBPACK FOOTER //
+// ./src/App.css */
